@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nelsongraa8@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nelsongraa8/?lipi=urn%3Ali%3Apage%3Amessaging_thread%3B69de3838-f6ac-4569-8330-ad929367fc5a](https://www.linkedin.com/in/nelsongraa8/?lipi=urn%3Ali%3Apage%3Amessaging_thread%3B69de3838-f6ac-4569-8330-ad929367fc5a)
+- 👨‍💻 All of my projects are available at [https://nelsongraa8.github.io/nelsongraa8](https://nelsongraa8.github.io/nelsongraa8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
