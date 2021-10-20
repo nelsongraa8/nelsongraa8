@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'montserrat-extrabold';
+    src: url('../fonts/Montserrat/Montserrat-ExtraBold.ttf');
+}
+
+@font-face {
+    font-family: 'NanumBrush';
+    src: url('../fonts/NanumBrush/NanumBrushScript-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'NanumBrush-Title';
+    src: url('../fonts/NanumBrush/06269_BRS.ttf');
+}
+
+body {
+    margin:0px;
+    padding:0px;
+    /* overflow:hidden; */
+    font-family: calibri;
+}
+
+.header_nav {
+    position:absolute;
+    top:0px;
+    right: 0px;
+    left: 0px;
+}
+.header_nav > a {
+    display: inline-block;
+    border-radius: 50%;
+    margin: 5px;
+    padding: 5px;
+    height: 20px;
+    width: 20px;
+    text-decoration: none;
+    color: #eee;
+    background: #2A292F;
+}
+
+.background_container {
+    background:#222;
+    max-width:100%;
+    z-index:0
+}
+
+.background_container > img {
+    width:100%;
+    display:block;
+    margin:0px auto 0px auto;
+}
+
+.main_container {
+    position:absolute;
+    top:0px;
+    right:0px;
+    left:0px;
+}
+
+.section_main_center {
+    width:100%;
+    max-width:700px;
+    /* height:1000px; */
+    box-shadow: #333 -10px 10px 20px 3px;
+    border-radius: 5px;
+    margin:200px auto 100px auto;
+    z-index:10;
+}
+
+.section_message_home {
+    padding:40px 40px 200px 40px;
+    background: linear-gradient(to top, #2A292F, transparent);
+}
+.div_message_welcome {
+    width:300px;
+}
+.button_home_moreread {
+    border: 0px;
+    border-radius: 3px;
+    background-color: rgb(163, 0, 1);
+    color:#fff;
+    padding: 7px 25px;
+    box-shadow: rgb(63, 61, 61) 0px 0px 10px 1px;
+}
+
+
+/** Seccion over me **/
+.div_main_over_me {
+    display:flex;
+    flex-direction:row;
+}
+.div_over_me_description {
+    flex:1;
+    text-align: right;
+}
+.over_me_image {
+    position: relative;
+    flex:1;
+    text-align: right;
+}
