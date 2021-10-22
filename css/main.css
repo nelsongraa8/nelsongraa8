@@ -117,6 +117,12 @@ body {
     border-bottom: 1px solid #fff;
 }
 
+/*  section contact me  */
+.background_contact_me {
+    background: linear-gradient( to top, #19171A, #342E30);
+    max-width: 100%;
+    height: 800px;
+}
 .section_bottom_contact_me {
     max-width: 500px;
     margin:0px auto
@@ -161,6 +167,32 @@ body {
     padding: 100px 0px 0px 40px;
 }
 
+/*  section mi project  */
+.section_mi_project {
+    max-width: 100%;
+    background:#a1a1a1;
+    border-radius: 0px 0px 5px 5px;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd
+}
+.div_container_mi_project {
+    padding:60px 40px
+}
+.div_container_mi_project > div {
+    display: flex;
+    flex-direction: row;
+}
+.div_container_mi_project_image, .div_container_mi_project_text {
+    flex: 1
+}
+
+/*  texture carton de background  */
+.background_texture_carton_claro {
+    max-width:100%;
+    height:700px; 
+    background: url('../image/carton-carton-superficie-plana-color-beige_1253-775.webp');
+    background-repeat: repeat;
+}
 
 @media only screen and ( max-width: 1900px ) {
     .section_main_center {
@@ -244,11 +276,16 @@ body {
 
 @media only screen and ( max-width: 720px ) {
     .section_main_center {
-        margin: 60px auto 100px auto;
+        margin: 60px 5px 100px 5px;
+        width: calc(100% - 10px);
     }
 
     .section_message_home {
         padding: 40px 40px 60px 40px;
+    }
+
+    .section_over_me {
+        padding: 100px 0px 0px 10px;
     }
 }
 
@@ -264,6 +301,53 @@ body {
 
     .section_over_me {
         padding: 100px 0px 0px 0px;
+    }
+}
+
+@media only screen and ( max-width: 500px ) {
+    .section_main_center {
+        margin: 60px 5px 100px 5px;
+        width: calc(100% - 10px);
+    }
+
+    .section_message_home {
+        padding: 10px;
+    }
+    .div_message_welcome {
+        width: 100%;
+    }
+
+    .section_over_me {
+        padding: 100px 0px 0px 0px;
+    }
+    .div_main_over_me {
+        flex-direction: column;
+    }
+    .div_over_me_description {
+        padding: 15px;
+        text-align: center;
+    }
+    .over_me_image {
+        display:none
+    }
+
+    .div_container_mi_project {
+        padding:40px 20px
+    }
+    .div_container_mi_project > div {
+        display: flex;
+        flex-direction: column;
+    }
+    .div_container_mi_project_text {
+      text-align: center;  
+    }
+
+    .background_texture_carton_claro {
+        height:1200px;  
+    }
+
+    .background_contact_me {
+        height: 900px;
     }
 }
 
