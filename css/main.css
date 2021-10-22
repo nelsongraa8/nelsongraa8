@@ -13,6 +13,10 @@
     src: url('../fonts/NanumBrush/06269_BRS.ttf');
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin:0px;
     padding:0px;
@@ -31,14 +35,6 @@ body {
     align-items: center;
 }
 .header_nav > a {
-    /* display: inline-block; */
-    /* border-radius: 30px; */
-    /* margin: 5px; */
-    /* padding: 0.5em 0.6em; */
-    /* font-size:20px; */
-    /* text-decoration: none; */
-    /* color: #eee; */
-    /* background: #333; */
     cursor: pointer;
     z-index: 100;
 }
@@ -103,3 +99,18 @@ body {
     flex:1;
     text-align: right;
 }
+
+/* elemento tansparente div circular */
+.medialuna_end_div_project {
+    /* top: 0; */
+    /* left: 0; */
+    position: absolute;
+    width: 100%;
+    height: 400px;
+    background: -moz-radial-gradient(transparent 50px, #a1a1a1 50px);
+    background: -webkit-radial-gradient(transparent 50px, #a1a1a1 50px);
+    background: -ms-radial-gradient(transparent 50px, #a1a1a1 50px);
+    background: -o-radial-gradient(transparent 50px, #a1a1a1 50px);
+    pointer-events: none; /* send mouse events beneath this layer */
+}
+
