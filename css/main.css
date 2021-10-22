@@ -13,6 +13,14 @@
     src: url('../fonts/NanumBrush/06269_BRS.ttf');
 }
 
+/*  variables de este mainCSS  */
+:root {
+    --color-main-gradient: #2A292F;
+    --color-main-shadow: #3A332A;
+    --color-main-project: #a1a1a1
+  }
+  
+
 html {
     scroll-behavior: smooth;
 }
@@ -35,8 +43,8 @@ body {
     align-items: center;
 }
 .header_nav > a {
-    cursor: pointer;
     z-index: 100;
+    cursor: pointer;
 }
 
 .background_container {
@@ -61,16 +69,16 @@ body {
 .section_main_center {
     width:100%;
     max-width:700px;
-    /* height:1000px; */
-    box-shadow: #333 -10px 10px 20px 3px;
+    box-shadow: var(--color-main-shadow) -10px 10px 30px 1px;
     border-radius: 5px;
     margin:200px auto 100px auto;
     z-index:10;
+    border: 1px solid #716B65;
 }
 
 .section_message_home {
     padding:40px 40px 200px 40px;
-    background: linear-gradient(to top, #2A292F, transparent);
+    background: linear-gradient(to top, var(--color-main-gradient), rgba(0,0,0,0.1));
 }
 .div_message_welcome {
     width:300px;
@@ -100,17 +108,48 @@ body {
     text-align: right;
 }
 
-/* elemento tansparente div circular */
 .medialuna_end_div_project {
-    /* top: 0; */
-    /* left: 0; */
     position: absolute;
-    width: 100%;
-    height: 400px;
-    background: -moz-radial-gradient(transparent 50px, #a1a1a1 50px);
-    background: -webkit-radial-gradient(transparent 50px, #a1a1a1 50px);
-    background: -ms-radial-gradient(transparent 50px, #a1a1a1 50px);
-    background: -o-radial-gradient(transparent 50px, #a1a1a1 50px);
-    pointer-events: none; /* send mouse events beneath this layer */
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    background: var(--color-main-project);
+    border-bottom: 1px solid #fff;
 }
+
+.section_bottom_contact_me {
+    max-width: 500px;
+    margin:0px auto
+}
+.title_contact_me {
+    font:12px calibri;
+    color:var(--color-main-project);
+    text-align: center;
+}
+.body_contact_me {
+    display:flex;
+    margin-top: 30px;
+}
+.input_body_contact_me , .textarea_body_contact_me {
+    flex:1
+}
+.input_body_contact_me > input, .textarea_body_contact_me > textarea {
+    display: block;
+    width: calc(100% - 20px);
+    margin:10px;
+    background: #737174;
+    border: 0px;
+    border-radius: 3px;
+    padding: 10px;
+    color:#fff;
+    font:12px calibri
+}
+.textarea_body_contact_me > textarea {
+    height:80px
+}
+.submit_contact_me {
+    text-align: center;
+    margin-top: 30px;
+}
+
 
