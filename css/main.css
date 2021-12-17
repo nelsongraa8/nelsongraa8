@@ -351,3 +351,24 @@ body {
     }
 }
 
+
+/** Estilo para la tecnologia que usa una web **/
+.container_div_tecnologia_proyect
+{
+    margin-top: 10px;
+}
+
+.div_tecnologia_proyect
+{
+    padding:3px 10px;
+    background-color: #7371DF;
+    color:#fff;
+    border-radius: 3px;
+    display: inline-block;
+    font-size:12px;
+    margin:3px 1px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
