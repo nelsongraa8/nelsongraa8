@@ -52,34 +52,10 @@
       height="40"
     />
   </a>
-  <a href="https://www.blender.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"
-      alt="blender"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
       alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
       width="40"
       height="40"
     />
@@ -97,7 +73,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
       alt="css3"
       width="40"
-      height="40"
+      height="35"
     />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
@@ -110,18 +86,10 @@
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
       alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.electronjs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-      alt="electron"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   <a href="https://expressjs.com" target="_blank">
@@ -167,14 +135,6 @@
       height="40"
     />
   </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-      alt="laravel"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.linux.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -185,7 +145,7 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
       alt="mongodb"
       width="40"
       height="40"
@@ -193,7 +153,7 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
       alt="mysql"
       width="40"
       height="40"
@@ -217,7 +177,7 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
       alt="postgresql"
       width="40"
       height="40"
@@ -266,6 +226,86 @@
   <a href="https://npmjs.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
+      alt="npm"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+      alt="npm"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://code.gitlab.com/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
+      alt="npm"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
+      alt="npm"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://jestjs.io/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+      alt="npm"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.atlassian.com/es/software/jira" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
+      alt="npm"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
+      alt="npm"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.raspberrypi.com/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"
+      alt="npm"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://lesscss.org/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+      alt="npm"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://arduino" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+      alt="npm"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://jasmine.github.io/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg"
       alt="npm"
       width="40"
       height="40"
