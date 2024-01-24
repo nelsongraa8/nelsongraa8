@@ -20,12 +20,6 @@ Imagen de <a href="https://www.freepik.es/foto-gratis/plano-estacion-trabajo-esp
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nelsongraa8)](https://git.io/streak-stats)
 
-</div>
- 
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
-
-<div>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank">
