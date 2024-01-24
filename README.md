@@ -1,6 +1,7 @@
 
 
-![MasterHead](./image/plano-estacion-trabajo-espacio-copia-computadora-portatil.jpg)
+![MasterHead](./image/plano-estacion-trabajo-espacio-copia-computadora-portatil-medium.jpg)
+Imagen de <a href="https://www.freepik.es/foto-gratis/plano-estacion-trabajo-espacio-copia-computadora-portatil_6740653.htm">Freepik</a>
 
 <h1 align="center">Hi 👋, I'm Nelson R. Graña</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
@@ -15,36 +16,15 @@
 
 - 📫 How to reach me **nelsongraa8@gmail.com**
 
-<!-- - 👨‍💻 All of my projects are available at [https://nelsongraa8.github.io/nelsongraa8](https://nelsongraa8.github.io/nelsongraa8) -->
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/nelsongraa8" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="nelsongraa8"
-      height="30"
-      width="40"
-    />
-  </a>
-  <a href="https://linkedin.com/in/nelsongraa8" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="nelsongraa8"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://es.stackoverflow.com/users/244635" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="244635"
-      height="30"
-      width="40"
-  /></a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nelsongraa8)](https://git.io/streak-stats)
+
+</div>
+ 
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+
+<div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -315,5 +295,34 @@
       height="40"
     />
   </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/nelsongraa8" target="blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="nelsongraa8"
+      height="30"
+      width="40"
+    />
+  </a>
+  <a href="https://linkedin.com/in/nelsongraa8" target="blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="nelsongraa8"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://es.stackoverflow.com/users/244635" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+      alt="244635"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
