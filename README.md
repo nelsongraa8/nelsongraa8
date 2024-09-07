@@ -28,8 +28,7 @@ Imagen de <a href="https://www.freepik.es/foto-gratis/plano-estacion-trabajo-esp
       alt="php"
       width="40"
       height="40"
-    />
-  </a>
+  /></a>
   <a href="https://www.python.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -37,17 +36,14 @@ Imagen de <a href="https://www.freepik.es/foto-gratis/plano-estacion-trabajo-esp
       width="40"
       height="40"
   /></a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
     /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
@@ -64,31 +60,28 @@ Imagen de <a href="https://www.freepik.es/foto-gratis/plano-estacion-trabajo-esp
       alt="angular"
       width="40"
       height="40"
-    ></a> 
+  /></a> 
   <a href="https://getbootstrap.com" target="_blank" style="text-decoration:none">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
       alt="bootstrap"
       width="40"
       height="40"
-    />
-  </a>
+  /></a>
   <a href="https://symfony.com" target="_blank" style="text-decoration:none">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg"
       alt="symfony"
       width="40"
       height="40"
-    />
-  </a>
+  /></a>
   <a href="https://primeng.com" target="_blank" style="text-decoration:none">
     <img
       src="https://raw.githubusercontent.com/nelsongraa8/nelsongraa8/main/image/primeng-logo.png"
       alt="primeng"
       width="40"
       height="40"
-    />
-  </a>
+  /></a>
   <a href="https://jestjs.io/" target="_blank" style="text-decoration:none">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
@@ -102,14 +95,14 @@ Imagen de <a href="https://www.freepik.es/foto-gratis/plano-estacion-trabajo-esp
       alt="Playwright"
       width="40"
       height="40"
-    /></a>
+  /></a>
   <a href="https://nestjs.com" target="_blank" style="text-decoration:none">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
       alt="Nestjs"
       width="40"
       height="40"
-    /></a>
+  /></a>
 </p>
 
 <h3 align="left">Library:</h3>
