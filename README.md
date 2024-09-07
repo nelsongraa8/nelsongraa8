@@ -128,6 +128,13 @@ Imagen de <a href="https://www.freepik.es/foto-gratis/plano-estacion-trabajo-esp
       width="40"
       height="40"
     /></a>
+  <a href="https://capacitorjs.com/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg"
+      alt="Capacitor"
+      width="40"
+      height="40"
+  /></a>
 </p>
 
 <h3 align="left">Tools:</h3>
