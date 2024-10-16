@@ -32,17 +32,8 @@ Imagen de <a href="https://www.freepik.es/foto-gratis/plano-estacion-trabajo-esp
 <table align="left" border="0">
 <tr border="0">
   <td width="60%" align="center" border="0">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nelsongraa8&theme=dark&hide_border=false" /> 
-  </td>
-
-  <td width="40%" align="center" border="0">
-    <i mg src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nelsongraa8&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-</p>
-<br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nelsongraa8&theme=dark&hide_border=false" />
+    <br>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -128,6 +119,17 @@ Imagen de <a href="https://www.freepik.es/foto-gratis/plano-estacion-trabajo-esp
       height="40"
   /></a>
 </p>
+
+  </td>
+
+  <td width="40%" align="center" border="0">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nelsongraa8&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+</p>
+<br>
 
 <h3 align="left">Library:</h3>
 <p align="left">
